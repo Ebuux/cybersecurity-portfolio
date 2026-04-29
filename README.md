@@ -47,3 +47,12 @@ Documenting hands-on labs and skills from TryHackMe.
 - [ ] Complete SOC Level 1
 - [ ] CompTIA Security+ certification
 - [ ] First cybersecurity job
+---
+
+## 📺 Learning Resources
+
+### YouTube Channels
+- [NetworkChuck](https://youtube.com/@NetworkChuck) - Networking, Linux, Cybersecurity
+
+### Platforms
+- [TryHackMe](https://tryhackme.com) - Hands-on labs
