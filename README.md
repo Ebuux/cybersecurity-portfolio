@@ -1,58 +1,176 @@
 # Cybersecurity Portfolio 🔐
 
-My journey to becoming a cybersecurity analyst.
-Documenting hands-on labs and skills from TryHackMe.
+My journey toward becoming an Offensive Security / Penetration Testing professional.  
+Documenting hands-on labs, cybersecurity skills, and practical learning from TryHackMe.
 
 ---
 
-## 📚 TryHackMe Progress
+# 👨‍💻 About Me
 
-| Module | Topic | Status |
-|--------|-------|--------|
-| 1 | Intro to Cyber Security | ✅ Done 
-| 2 | Network Fundamentals | ✅ Done 
-| 3 | How The Web Works | ✅ Done 
-| 4 | Computer Fundamentals | ✅ Done 
+I am currently building my cybersecurity skills through hands-on practice, networking studies, Linux fundamentals, web security, and offensive security labs.
+
+My goal is to become a professional Penetration Tester and continuously improve my practical security knowledge.
 
 ---
 
-## 🛠️ Skills Learned
+# 🚀 Current Focus
 
-### Networking
-- OSI Model (7 layers)
-- LAN, IP addressing
+- Offensive Security / Pentesting
+- Networking Fundamentals
+- Linux Fundamentals
+- Web Security Basics
+- Hands-on Labs
+- Python for Cybersecurity
+
+---
+
+# 🧠 Skills Learned
+
+## Networking
+- OSI Model
+- IP Addressing
+- DNS
+- HTTP / HTTPS
+- TCP vs UDP
 - Packets & Frames
-- DNS, HTTP protocols
+- Basic Routing Concepts
 
-### Cybersecurity Basics
-- Offensive Security concepts
-- Defensive Security concepts
-- Career paths in Cyber
+## Cybersecurity Basics
+- Offensive Security Concepts
+- Defensive Security Concepts
+- Threat Awareness
+- Security Principles
+- Hacker Methodology
 
-### Computer Fundamentals
-- Client-Server model
-- Virtualisation basics
-- Cloud Computing
+## Computer Fundamentals
+- Client-Server Model
+- Virtualization Basics
+- Cloud Computing Basics
+- Operating Systems Basics
+
+## Web Fundamentals
+- How Websites Work
+- Requests & Responses
+- Cookies & Sessions
+- Web Architecture Basics
+
+## Cryptography
+- Symmetric Encryption
+- Asymmetric Encryption
+- Public & Private Keys
+- Hashing Basics
+
+## Programming
+- JavaScript Basics
+- Loops & Conditions
+- Variables & Functions
 
 ---
 
-## 🎯 Currently Working On
-- Completing TryHackMe Pre-Security Path
-- SOC Level 1 Path (coming next)
+# 📚 Recent TryHackMe Rooms
+
+## Become a Hacker
+
+### Topics Covered
+- Offensive Security basics
+- Ethical hacking concepts
+- Hacker mindset
+- Web application attacks
+- Security awareness
+
+### What I Learned
+This room introduced the mindset of ethical hackers and explained how offensive security professionals identify vulnerabilities to improve security.
+
+### Key Takeaway
+Understanding attacker techniques helps security professionals better defend systems and applications.
 
 ---
 
-## 🗺️ Roadmap
-- [ ] Complete Pre-Security Path
-- [ ] Complete SOC Level 1
-- [ ] CompTIA Security+ certification
-- [ ] First cybersecurity job
+## Encryption and Keys
+
+### Topics Covered
+- Symmetric encryption
+- Asymmetric encryption
+- Public and private keys
+- Key exchange problem
+- Cryptography basics
+
+### What I Learned
+I learned how encryption protects data and how asymmetric cryptography solves secure key sharing problems.
+
+### Key Takeaway
+Encryption is essential for secure communication and data protection.
+
 ---
 
-## 📺 Learning Resources
+## JavaScript Basics Demo
 
-### YouTube Channels
-- [NetworkChuck](https://youtube.com/@NetworkChuck) - Networking, Linux, Cybersecurity
+### Topics Covered
+- Variables
+- Functions
+- Loops
+- Conditional statements
+- Basic JavaScript syntax
 
-### Platforms
-- [TryHackMe](https://tryhackme.com) - Hands-on labs
+### What I Learned
+I learned how JavaScript works inside web applications and how scripts interact with websites.
+
+### Key Takeaway
+JavaScript knowledge is important in web security and vulnerability analysis.
+
+---
+
+# 🛠️ Tools & Platforms
+
+## Platforms
+- TryHackMe
+- GitHub
+
+## Tools
+- Linux Terminal
+- Browser Developer Tools
+- Basic Networking Tools
+
+---
+
+# 🎯 Roadmap
+
+- [x] Complete Pre-Security Path
+- [ ] Complete Linux Fundamentals
+- [ ] Complete Web Fundamentals
+- [ ] Complete Jr Penetration Tester Path
+- [ ] Learn Python Basics
+- [ ] Build More Practical Labs
+- [ ] Prepare for Security+
+- [ ] First Cybersecurity Internship / Job
+
+---
+
+# 📂 Portfolio Structure
+
+text
+/notes
+/writeups
+/certificates
+/screenshots
+
+
+---
+
+# 📖 Learning Resources
+
+## YouTube Channels
+- NetworkChuck
+- David Bombal
+- John Hammond
+
+## Platforms
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+
+---
+
+# 🔥 Motivation
+
+Consistency and hands-on practice are the keys to mastering cybersecurity
